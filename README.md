@@ -32,11 +32,11 @@
 
 ## Java Compiler 
 
-<img src="./images/java_execution.png" width="400" height="400">
+<img src="./images/java_execution.png" width="800" height="400">
 
 - **Download and Install Java Runtime Environemnt (JRE)** which allows the package to run on any environment. **Download** from `www.java.com/download`. This contains `Java Virtual Machine` (JVM).
 
-<img src="./images/JVM.png" width="400" height="400">
+<img src="./images/JVM.png" width="800" height="400">
 
 The JVM takes our Java Byte Code and translate it to the Native Code in the operating system. This application is why java applications are independent. 
 
@@ -48,7 +48,7 @@ We have Four editions of java for building different kinds of applications:
 - Micro Edition (ME): which is subset of java standard edition designed for mobile devices. So it has libraries specific for mobile devices 
 - Java Card: which is used in smart cards. 
 
-<img src="./images/JE.png" width="400" height="400">
+<img src="./images/JE.png" width="800" height="400">
 
 ## Variables 
 - We use variables to temporarily store data in computer memory.
@@ -56,7 +56,7 @@ We have Four editions of java for building different kinds of applications:
 ## Types 
 - **Primitive:** for storing simple values. The more bytes we have the more values that we can store. If we want to stor a number that have decimal places in them, we have to use float or double.
 
-<img src="./images/primitive_types.png" width="400" height="400">
+<img src="./images/primitive_types.png" width="800" height="300">
 
 
 - **Reference:** for storing complex objects like `date` and `mail messages`.
